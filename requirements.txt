@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+jupyter
+dvc
+mlflow
+fastapi
+streamlit
+requests
+telethon
+nest_asyncio
+asyncio
+seaborn
