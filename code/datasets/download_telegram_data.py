@@ -17,7 +17,7 @@ client = TelegramClient(session_file, api_id, api_hash)
 
 async def main():
     await client.start(phone)
-    channel = await client.get_entity('goldapple_ru')
+    channel = await client.get_entity('diana_minnn')
     offset_id = 0
     all_messages = []
     total_messages = 0

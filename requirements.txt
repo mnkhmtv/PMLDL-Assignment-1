@@ -11,3 +11,7 @@ telethon
 nest_asyncio
 asyncio
 seaborn
+uvicorn
+joblib
+catboost
+stop-words
