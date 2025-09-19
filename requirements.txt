@@ -13,5 +13,3 @@ asyncio
 seaborn
 uvicorn
 joblib
-catboost
-stop-words
